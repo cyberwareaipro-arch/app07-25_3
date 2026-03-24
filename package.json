@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@capacitor/android": "^8.2.0",
+    "@capacitor/core": "^8.2.0",
     "mongo": "^0.1.0",
     "mongodb": "^6.17.0",
     "mongoose": "^8.16.4",
@@ -12,5 +14,9 @@
     "dev": "next dev",
     "build": "NODE_ENV=production next build",
     "start": "NODE_ENV=production next start"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.2.0"
   }
 }

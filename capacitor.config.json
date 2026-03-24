@@ -1,0 +1,8 @@
+{
+  "appId": "com.proyectoprofesor.app",
+  "appName": "Proyecto Profesor",
+  "webDir": "public",
+  "server": {
+    "url": "https://TU_URL_DE_PRODUCCION_AQUI.com"
+  }
+}
